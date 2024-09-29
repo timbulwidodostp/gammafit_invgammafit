@@ -1,5 +1,16 @@
-d 'DEA': Data envelopment analysis
+d 'gammafit_invgammafit': Fitting a two-parameter gamma And inverse gamma distribution by maximum likelihood (ML) Use gammafit And invgammafit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f gamma4.ado
+f gamma4.hlp
+f gammafit.ado
+f gammafit.hlp
+f gammafit_lf.ado
+f gammafit_lf2.ado
+f invgamma.mata
+f invgammafit.ado
+f invgammafit.hlp
+f invgammafit_lf.ado
+f pinvgamma.ado
+f pinvgamma.hlp
+f qinvgamma.ado
+f qinvgamma.hlp
