@@ -1,6 +1,8 @@
 # gammafit_invgammafit
 Fitting a two-parameter gamma And inverse gamma distribution by maximum likelihood (ML) Use gammafit And invgammafit With STATA 18
 
+https://www.youtube.com/watch?v=LVYrJThoI94
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
